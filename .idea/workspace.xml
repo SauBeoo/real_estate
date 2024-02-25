@@ -5,17 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69055f0c-c28f-4e1d-94ef-6cdab7579d62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Fe-Project/app/dashboard/(overview)/loading.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fe-Project/app/dashboard/(overview)/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fe-Project/app/dashboard/invoices/[id]/edit/not-found.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fe-Project/app/dashboard/invoices/[id]/edit/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fe-Project/app/dashboard/invoices/create/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fe-Project/app/dashboard/invoices/error.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fe-Project/app/lib/actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fe-Project/app/login/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fe-Project/auth.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fe-Project/middleware.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fe-Project/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/Fe-Project/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fe-Project/app/dashboard/page.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Fe-Project/app/lib/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Fe-Project/app/lib/data.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fe-Project/app/ui/dashboard/latest-invoices.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fe-Project/app/ui/dashboard/latest-invoices.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fe-Project/app/ui/dashboard/revenue-chart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fe-Project/app/ui/dashboard/revenue-chart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fe-Project/app/ui/invoices/buttons.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fe-Project/app/ui/invoices/buttons.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fe-Project/app/ui/invoices/create-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fe-Project/app/ui/invoices/create-form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fe-Project/app/ui/invoices/edit-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fe-Project/app/ui/invoices/edit-form.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fe-Project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Fe-Project/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fe-Project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Fe-Project/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fe-Project/scripts/seed.js" beforeDir="false" afterPath="$PROJECT_DIR$/Fe-Project/scripts/seed.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +34,8 @@
       <list>
         <option value="tsconfig.json" />
         <option value="CSS File" />
-        <option value="TypeScript File" />
         <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -47,26 +51,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Project/real_estate/fe-project&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.tailwindcss&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\Project\\real_estate\\fe-project\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "F:/Projects/real_estate/Fe-Project",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.tailwindcss",
+    "ts.external.directory.path": "F:\\Projects\\real_estate\\Fe-Project\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Projects\real_estate\Fe-Project" />
       <recent name="D:\Project\real_estate\fe-project" />
       <recent name="D:\Project\real_estate\fe-project\app\dashboard" />
     </key>
@@ -97,6 +102,9 @@
       <workItem from="1707185070168" duration="10185000" />
       <workItem from="1707289253047" duration="6654000" />
       <workItem from="1707962682256" duration="8844000" />
+      <workItem from="1708049687575" duration="7953000" />
+      <workItem from="1708325346320" duration="3352000" />
+      <workItem from="1708414641356" duration="8674000" />
     </task>
     <servers />
   </component>
