@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe6bcf37-5e63-4398-862f-92f10544e22b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Fe-Project/auth.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/customers/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/invoices/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/fonts.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/home.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/real_estate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/real_estate.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fe-Project/app/lib/actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Fe-Project/app/lib/actions.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fe-Project/app/ui/dashboard/sidenav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fe-Project/app/ui/dashboard/sidenav.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fe-Project/app/ui/login-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fe-Project/app/ui/login-form.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fe-Project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Fe-Project/package-lock.json" afterDir="false" />
-    </list>
+    <list default="true" id="69055f0c-c28f-4e1d-94ef-6cdab7579d62" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,8 +16,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
+        <option value="tsconfig.json" />
+        <option value="CSS File" />
         <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -42,7 +30,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="D:\laragon\bin\php\php-8.1.10-Win32-vs16-x64\php.exe" />
-  <component name="ProjectId" id="2iM2r81JAhvT8FoDDoHsQvMvtGd" />
+  <component name="ProjectId" id="2Z3gDAf1HAiQWyIo4phMABXIyXP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,40 +40,63 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Project/real_estate/nextjs-dashboard/app/ui",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "F:/Projects/real_estate/Fe-Project",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editing.templates",
-    "ts.external.directory.path": "D:\\Project\\real_estate\\fe-project\\node_modules\\typescript\\lib",
+    "settings.editor.selected.configurable": "configurable.tailwindcss",
+    "ts.external.directory.path": "F:\\Projects\\real_estate\\Fe-Project\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Project\real_estate\nextjs-dashboard\app\ui" />
+      <recent name="F:\Projects\real_estate\Fe-Project" />
+      <recent name="D:\Project\real_estate\fe-project" />
+      <recent name="D:\Project\real_estate\fe-project\app\dashboard" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Project\real_estate\nextjs-dashboard\app\ui" />
+      <recent name="D:\Project\real_estate\fe-project\app\dashboard\(overview)" />
+      <recent name="D:\Project\real_estate\fe-project\app\dashboard\overview" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fe6bcf37-5e63-4398-862f-92f10544e22b" name="Changes" comment="" />
-      <created>1719286322177</created>
+      <changelist id="69055f0c-c28f-4e1d-94ef-6cdab7579d62" name="Changes" comment="" />
+      <created>1701656054903</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1719286322177</updated>
-      <workItem from="1719286323213" duration="3783000" />
-      <workItem from="1719386424362" duration="242000" />
-      <workItem from="1719388949463" duration="21399000" />
+      <updated>1701656054903</updated>
+      <workItem from="1701656055847" duration="2366000" />
+      <workItem from="1701661717068" duration="505000" />
+      <workItem from="1701663827572" duration="583000" />
+      <workItem from="1705293242622" duration="1389000" />
+      <workItem from="1705891044936" duration="13970000" />
+      <workItem from="1705916004211" duration="448000" />
+      <workItem from="1705916759141" duration="1725000" />
+      <workItem from="1705973335109" duration="8662000" />
+      <workItem from="1706066138747" duration="2330000" />
+      <workItem from="1706492012887" duration="1420000" />
+      <workItem from="1706498065226" duration="1130000" />
+      <workItem from="1707185070168" duration="10185000" />
+      <workItem from="1707289253047" duration="6654000" />
+      <workItem from="1707962682256" duration="8844000" />
+      <workItem from="1708049687575" duration="7953000" />
+      <workItem from="1708325346320" duration="3352000" />
+      <workItem from="1708414641356" duration="8674000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
